@@ -9,6 +9,7 @@ import javax.swing.JOptionPane;
 
 public class CFGCreator {
 
+	//file added to git
 	public File serviceCFG = null;
 	public File propertyFile = null;
 	public File desinerFile = null;
